@@ -1,0 +1,1 @@
+Sumber: https://www.crazycodersclub.com/android/scan-qrcode-and-save-it-in-google-sheet-using-google-app-scriptpreviously-i-have-posted-about-insert-and-fetching-data-from-google-sheet-to-android-app-so-here-i-am-covering-complete-crud-operation-i/
